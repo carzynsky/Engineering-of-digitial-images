@@ -1,0 +1,4 @@
+Argument: 0.0, Wynik: 0.0
+Argument: -1.0, Wynik: 0.3825737006171463
+Argument: 1.3, Wynik: 0.24835778320618185
+Argument: 3.2, Wynik: -0.0034017300001565644
